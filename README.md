@@ -1,2 +1,0 @@
-# apdemo
-apdemo dockerfile
